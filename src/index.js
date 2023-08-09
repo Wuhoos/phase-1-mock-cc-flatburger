@@ -1,6 +1,5 @@
 const burgerMenu = document.querySelector('#restaurant-menu')
 const inputForm = document.querySelector('#add-to-cart-form')
-const foodDeatil = document.querySelector('#food-detail')
 const image = document.querySelector('#image')
 const burgerName = document.querySelector('#name')
 const numberInCart = document.querySelector('#number-in-cart-count')
